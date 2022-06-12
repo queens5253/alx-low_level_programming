@@ -28,5 +28,6 @@ if (n < 6 && n != 0)
 }
 
 printf("\n");
+
 return (0);
 }
