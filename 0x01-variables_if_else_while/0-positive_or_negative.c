@@ -1,18 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
-/*
- * Program Description: assigns a random number to the variable n 
- * each time it is executed 
- * Return : always 0 
+/**
+ * main - assigns a random number to the variable n
+ * and prints out based on the condition
+ * Return: 0 if exited correctly
 */
-
-/* 
- * main: prints the variable n based on the condition 
- * in printf function
-*/
-int main(void)  
+int main(void)
 {
 int n;
 
