@@ -18,6 +18,7 @@ i = 0;
 * {
 * putchar(i);
 * }
+* \o/: print parameter for infinite loop avoided
 */
 
 printf("Infinite loop avoided! \\o/\n");
